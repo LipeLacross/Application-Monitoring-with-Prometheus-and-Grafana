@@ -29,7 +29,7 @@ This repository contains practical examples and configurations for monitoring ap
 - **Grafana:** Metrics visualization and analytics platform.
 - **Express:** Web framework for Node.js.
 - **prom-client:** Library to expose Prometheus-compatible metrics.
-- **Docker Compose:** Container orchestration for development and production environments[1].
+- **Docker Compose:** Container orchestration for development and production environments.
 
 ## 📁 Project Structure
 
@@ -126,7 +126,7 @@ Node.js application that exposes custom metrics for Prometheus:
   - `/`: Returns "Hello World!".
   - `/zera-usuarios-logados`: Resets the logged-in users counter.
   - `/retorna-usuarios-logados`: Restores the logged-in users counter to its normal value.
-  - `/metrics`: Exposes metrics for Prometheus to collect[1].
+  - `/metrics`: Exposes metrics for Prometheus to collect.
 
 **Note:** Replace `` with the actual repository URL when using this README.  
 To add the English README, create the file `README_EN.md` with the above content.
