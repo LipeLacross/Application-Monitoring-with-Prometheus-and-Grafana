@@ -15,9 +15,9 @@ Monitoramento de aplicações e servidores usando Prometheus e Grafana. Esse rep
 ### 📸 Exemplo Visual do Projeto
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/9de4d1e1-ad0e-4802-8592-58b275dc1a1d" style="width: 30%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <img src="https://github.com/user-attachments/assets/c7f2b411-2b74-444f-9405-b43bff7526ea" style="width: 30%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <img src="https://github.com/user-attachments/assets/9dbccaef-ebab-4379-970c-b7140bd38f02" style="width: 30%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/user-attachments/assets/9de4d1e1-ad0e-4802-8592-58b275dc1a1d" style="width: 60%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/user-attachments/assets/c7f2b411-2b74-444f-9405-b43bff7526ea" style="width: 60%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/user-attachments/assets/9dbccaef-ebab-4379-970c-b7140bd38f02" style="width: 60%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 </div>
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
