@@ -27,7 +27,7 @@ Monitoramento de aplicações e servidores usando Prometheus e Grafana. Esse rep
 - **Grafana**: Plataforma de visualização e análise de métricas.
 - **Express**: Framework web para Node.js.
 - **prom-client**: Biblioteca para expor métricas no formato Prometheus.
-- **Docker Compose**: Orquestração de containers para facilitar o ambiente de desenvolvimento e produção[1].
+- **Docker Compose**: Orquestração de containers para facilitar o ambiente de desenvolvimento e produção.
 
 ## 📁 Estrutura do Projeto
 
@@ -124,7 +124,7 @@ Aplicação Node.js que expõe métricas customizadas para o Prometheus:
   - `/`: Retorna "Hello World!".
   - `/zera-usuarios-logados`: Zera o contador de usuários logados.
   - `/retorna-usuarios-logados`: Retorna o contador de usuários logados ao valor normal.
-  - `/metrics`: Exibe as métricas para o Prometheus coletar[1].
+  - `/metrics`: Exibe as métricas para o Prometheus coletar.
 
 **Observação:** Substitua `` pela URL real do seu repositório ao utilizar este README.  
 Para adicionar o README em inglês, crie o arquivo `README_EN.md` com a tradução do conteúdo acima.
